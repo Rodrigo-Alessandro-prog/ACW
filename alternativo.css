@@ -1,4 +1,4 @@
-/* Reset CSS básico */
+
 * {
   margin: 0;
   padding: 0;
@@ -47,5 +47,6 @@ ul, ol {
     background-position: 0% 50%;
   }
 }
+
 
 
